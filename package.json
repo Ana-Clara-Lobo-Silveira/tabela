@@ -1,0 +1,16 @@
+{
+  "name": "tabela",
+  "version": "1.0.0",
+  "description": "Estudos sobre estruturação de tabelas.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "tabelas"
+  ],
+  "author": "Ana Clara Lobo Silveira",
+  "license": "ISC"
+}
